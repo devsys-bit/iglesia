@@ -1,0 +1,12 @@
+{
+  "printWidth": 100000,
+  "trailingComma": "all",
+  "overrides": [
+    {
+      "files": ["*.html", "*.ts", "*.js", "*.css", "*.json"],
+      "options": {
+        "printWidth": 100000
+      }
+    }
+  ]
+}

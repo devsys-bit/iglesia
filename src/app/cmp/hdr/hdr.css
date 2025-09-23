@@ -1,0 +1,10 @@
+/* Navbar oscuro semitransparente */
+.custom-navbar {
+  background-color: rgba(0, 0, 0, 0.7) !important; /* oscuro y poco transparente */
+  backdrop-filter: blur(4px); /* ligero efecto glass */
+}
+
+/* Padding navbar */
+.navbar {
+  padding: 0.8rem 1rem;
+}
