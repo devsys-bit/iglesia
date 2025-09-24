@@ -12,3 +12,15 @@ body {
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
 }
+
+section.claro {
+  background-color: #f8f9fa; /* gris muy claro */
+  color: #212529; /* texto oscuro */
+  padding: 60px 20px;
+}
+
+section.oscuro {
+  background-color: #e2e6ea; /* gris suave un poco más oscuro */
+  color: #212529; /* texto oscuro */
+  padding: 60px 20px;
+}
